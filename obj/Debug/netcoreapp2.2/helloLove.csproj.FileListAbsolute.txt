@@ -1,0 +1,14 @@
+/Users/berekethaile/Downloads/helloLove/bin/Debug/netcoreapp2.2/helloLove.deps.json
+/Users/berekethaile/Downloads/helloLove/bin/Debug/netcoreapp2.2/helloLove.runtimeconfig.json
+/Users/berekethaile/Downloads/helloLove/bin/Debug/netcoreapp2.2/helloLove.runtimeconfig.dev.json
+/Users/berekethaile/Downloads/helloLove/bin/Debug/netcoreapp2.2/helloLove.dll
+/Users/berekethaile/Downloads/helloLove/bin/Debug/netcoreapp2.2/helloLove.pdb
+/Users/berekethaile/Downloads/helloLove/obj/Debug/netcoreapp2.2/helloLove.csprojAssemblyReference.cache
+/Users/berekethaile/Downloads/helloLove/obj/Debug/netcoreapp2.2/helloLove.csproj.CoreCompileInputs.cache
+/Users/berekethaile/Downloads/helloLove/obj/Debug/netcoreapp2.2/helloLove.RazorAssemblyInfo.cache
+/Users/berekethaile/Downloads/helloLove/obj/Debug/netcoreapp2.2/helloLove.RazorAssemblyInfo.cs
+/Users/berekethaile/Downloads/helloLove/obj/Debug/netcoreapp2.2/helloLove.AssemblyInfoInputs.cache
+/Users/berekethaile/Downloads/helloLove/obj/Debug/netcoreapp2.2/helloLove.AssemblyInfo.cs
+/Users/berekethaile/Downloads/helloLove/obj/Debug/netcoreapp2.2/helloLove.RazorTargetAssemblyInfo.cache
+/Users/berekethaile/Downloads/helloLove/obj/Debug/netcoreapp2.2/helloLove.dll
+/Users/berekethaile/Downloads/helloLove/obj/Debug/netcoreapp2.2/helloLove.pdb
