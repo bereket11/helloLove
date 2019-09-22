@@ -3,7 +3,6 @@
 /Users/berekethaile/Downloads/helloLove/bin/Debug/netcoreapp2.2/helloLove.runtimeconfig.dev.json
 /Users/berekethaile/Downloads/helloLove/bin/Debug/netcoreapp2.2/helloLove.dll
 /Users/berekethaile/Downloads/helloLove/bin/Debug/netcoreapp2.2/helloLove.pdb
-/Users/berekethaile/Downloads/helloLove/obj/Debug/netcoreapp2.2/helloLove.csprojAssemblyReference.cache
 /Users/berekethaile/Downloads/helloLove/obj/Debug/netcoreapp2.2/helloLove.csproj.CoreCompileInputs.cache
 /Users/berekethaile/Downloads/helloLove/obj/Debug/netcoreapp2.2/helloLove.RazorAssemblyInfo.cache
 /Users/berekethaile/Downloads/helloLove/obj/Debug/netcoreapp2.2/helloLove.RazorAssemblyInfo.cs
