@@ -27,7 +27,7 @@ namespace helloLove
 
             app.Run(async (context) =>
             {
-                await context.Response.WriteAsync("Bere Wint!!");
+                await context.Response.WriteAsync("Bere Winti!!");
             });
         }
     }
